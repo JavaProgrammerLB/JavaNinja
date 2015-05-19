@@ -1,0 +1,18 @@
+2015-05-19 13:49:29,462 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.yitianyigexiangfa:firstNinjaProject:firstNinjaProject @ D:\GithubRep\JavaNinja\firstNinjaProject\pom.xml.
+2015-05-19 13:49:37,196 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-19 13:49:37,217 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2015-05-19 13:49:37,218 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.yitianyigexiangfa:firstNinjaProject:firstNinjaProject @ D:\GithubRep\JavaNinja\firstNinjaProject\pom.xml.
+2015-05-19 13:49:37,231 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GithubRep\JavaNinja\firstNinjaProject\src\main\resources
+2015-05-19 13:49:37,233 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-19 13:49:37,233 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GithubRep\JavaNinja\firstNinjaProject\src\test\resources
+2015-05-19 13:49:38,296 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.yitianyigexiangfa:firstNinjaProject:firstNinjaProject @ D:\GithubRep\JavaNinja\firstNinjaProject\pom.xml.
+2015-05-19 13:49:39,588 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-19 13:49:39,592 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 11 resources
+2015-05-19 13:49:39,600 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GithubRep\JavaNinja\firstNinjaProject\src\main\resources
+2015-05-19 13:49:39,601 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-19 13:49:39,602 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GithubRep\JavaNinja\firstNinjaProject\src\test\resources
+2015-05-19 13:49:41,582 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-19 13:49:41,584 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-05-19 13:49:41,585 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GithubRep\JavaNinja\firstNinjaProject\src\main\resources
+2015-05-19 13:49:41,589 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
+2015-05-19 13:49:41,590 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GithubRep\JavaNinja\firstNinjaProject\src\test\resources
