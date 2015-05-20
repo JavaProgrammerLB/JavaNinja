@@ -16,3 +16,8 @@
 2015-05-19 13:49:41,585 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GithubRep\JavaNinja\firstNinjaProject\src\main\resources
 2015-05-19 13:49:41,589 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (GBK actually) to copy filtered resources, i.e. build is platform dependent!
 2015-05-19 13:49:41,590 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GithubRep\JavaNinja\firstNinjaProject\src\test\resources
+2015-05-20 10:36:04,434 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-05-20 10:36:17,547 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-05-20 10:38:00,207 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-05-20 10:42:04,329 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\GithubRep\JavaNinja\firstNinjaProject
+2015-05-20 10:42:04,330 [Worker-3] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -PninjaRun  -B ninja:run
