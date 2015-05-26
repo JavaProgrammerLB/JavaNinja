@@ -52,8 +52,7 @@ public class ApplicationController {
     	return Results.json().render(simplePojo2);
     }
 
-    public Result contentsPage(){
-//    	return Results.html().template("../layout/contents.ftl.html");
-    	return null;
+    public Result contents(){
+    	return Results.html();
     }
 }
