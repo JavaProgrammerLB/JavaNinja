@@ -1,2 +1,0 @@
-<#import "defaultLayout.ftl.html" as layout>
-<@layout
