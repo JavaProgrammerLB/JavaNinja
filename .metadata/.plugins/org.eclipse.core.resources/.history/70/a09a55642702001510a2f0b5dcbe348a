@@ -1,0 +1,8 @@
+<#import "defaultLayout.ftl.html" as layout>
+<@layout.myLayout "Home page">    
+
+
+<h1>${i18n("hello.world")}</h1>
+<h1>page2</h1>
+<h1>page3</h1>
+</@layout.myLayout>
