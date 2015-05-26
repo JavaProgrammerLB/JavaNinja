@@ -29,8 +29,10 @@ public class Routes implements ApplicationRoutes {
         
         router.GET().route("/").with(ApplicationController.class, "index");
         router.GET().route("/hello_world.json").with(ApplicationController.class, "helloWorldJson");
+        router.GET().route("/contents.page").with(ApplicationController.class,"contentsPage");
         
- 
+        //³¢ÊÔÐ´Â·ÓÉ
+        router.GET().route("/hello_world_from_liubei").with(ApplicationController.class, "helloWorldFromLiuBei");
         ///////////////////////////////////////////////////////////////////////
         // Assets (pictures / javascript)
         ///////////////////////////////////////////////////////////////////////    
@@ -41,6 +43,7 @@ public class Routes implements ApplicationRoutes {
         // Index / Catchall shows index page
         ///////////////////////////////////////////////////////////////////////
         router.GET().route("/.*").with(ApplicationController.class, "index");
+        
     }
 
 }

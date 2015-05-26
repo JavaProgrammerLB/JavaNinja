@@ -38,11 +38,22 @@ public class ApplicationController {
 
         return Results.json().render(simplePojo);
 
-    }
+    }  
     
     public static class SimplePojo {
 
         public String content;
         
+    }
+    
+    public Result helloWorldFromLiuBei(){
+    	SimplePojo simplePojo2 = new SimplePojo();
+    	simplePojo2.content = "Hllo World From LiuBei";
+    	return Results.json().render(simplePojo2);
+    }
+
+    public Result contentsPage(){
+//    	return Results.html().template("../layout/contents.ftl.html");
+    	return null;
     }
 }
