@@ -1,0 +1,8 @@
+*.log
+.metadata
+RemoteSystemsTempFiles
+.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.pc201504091300_12288/node.properties
+.metadata/.plugins/org.eclipse.rse.core/profiles/PRF.pc201504091300_12288/H.local_16/node.properties
+.metadata/.plugins/org.eclipse.team.cvs.core/.running
+*.mark
+.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/browserWindow.js
