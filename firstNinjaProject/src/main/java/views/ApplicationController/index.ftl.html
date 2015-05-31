@@ -1,10 +1,4 @@
-
-
-<h1>${i18n("hello.world")}</h1>
-<p>${i18n("hello.world.json")}</p>
-<a href="/hello_world.json">Hello World Json</a>
-<a href="/hello_world_from_liubei">${i18n("hello.world.from.liubei")}</a>
-
-
-
+<#import "../layout/defaultLayout.ftl.html" as layout>
+<@layout.myLayout "java忍者">
+<h1>${i18n("javaNinja_about")}</h1>
 </@layout.myLayout>
