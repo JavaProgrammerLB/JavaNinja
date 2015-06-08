@@ -59,4 +59,8 @@ public class ApplicationController {
     public Result aboutMe(){
     	return Results.html();
     }
+    
+    public Result article(){
+    	return Results.html();
+    }
 }
