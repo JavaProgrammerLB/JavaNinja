@@ -61,6 +61,6 @@ public class ApplicationController {
     }
     
     public Result article(){
-    	return Results.html();
+    	return Results.html().template("views/ApplicationControl/article.ftl.html");
     }
 }
