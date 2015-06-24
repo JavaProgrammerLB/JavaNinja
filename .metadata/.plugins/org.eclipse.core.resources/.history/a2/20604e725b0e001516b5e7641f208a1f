@@ -1,0 +1,6 @@
+<#import "../layout/defaultLayout.ftl.html" as layout>
+<@layout.myLayout "Java忍者">
+	<div>
+		<a href="">忍者article！</a>
+	</div>
+</@layout.myLayout>

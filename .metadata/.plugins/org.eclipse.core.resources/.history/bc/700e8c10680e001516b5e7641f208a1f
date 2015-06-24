@@ -1,0 +1,17 @@
+<#import "../layout/defaultLayout.ftl.html" as layout>
+<@layout.myLayout "Java忍者">
+<script type="text/javascript">
+		function click(){
+			var d = document.domain(ninjaArticle);
+			alert(d);
+		}
+		
+		function buttonClick(){
+			var button
+		}
+</script>
+	<div>
+		<a id="ninjaArticle" onclick="click()">忍者article！</a>
+		<button id="b1" onclick="buttonClick()">按钮</button>
+	</div>
+</@layout.myLayout>

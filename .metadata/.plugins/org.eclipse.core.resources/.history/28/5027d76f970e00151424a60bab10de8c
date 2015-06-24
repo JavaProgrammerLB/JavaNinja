@@ -1,0 +1,13 @@
+package controllers;
+
+import ninja.Result;
+import ninja.Results;
+
+import com.google.inject.Singleton;
+
+@Singleton
+public class ApplicationController2 {
+    public Result article(){
+    	return Results.html().template("/views/ApplicationController2/article.ftl.html");
+    }
+}

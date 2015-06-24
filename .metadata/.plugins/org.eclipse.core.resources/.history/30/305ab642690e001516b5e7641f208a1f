@@ -1,0 +1,18 @@
+<#import "../layout/defaultLayout.ftl.html" as layout>
+<@layout.myLayout "Java忍者">
+<script type="text/javascript">
+		function click1(){
+			alert("hello world");
+			var d = referer
+			alert(d);
+		}
+		
+		function buttonClick(){
+			alert("hello world");
+		}
+</script>
+	<div>
+		<button onclick="click1()">忍者article！</button>
+		<button id="b1" onclick="buttonClick()">按钮</button>
+	</div>
+</@layout.myLayout>
