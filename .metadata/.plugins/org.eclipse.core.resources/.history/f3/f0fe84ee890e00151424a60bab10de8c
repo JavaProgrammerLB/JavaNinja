@@ -1,9 +1,0 @@
-<#import "../layout/defaultLayout.ftl.html" as layout>
-<@layout.myLayout "Java忍者">
-	<div>
-		<button onclick="click1()">忍者article！</button>
-		<button id="b1" onclick="buttonClick()">按钮</button>
-	</div>
-	<script type="text/javascript" src="">
-</script>
-</@layout.myLayout>
