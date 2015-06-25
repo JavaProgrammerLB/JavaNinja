@@ -1,4 +1,5 @@
 # JavaNinja
+####javaNinja文档翻译网址：http://www.yitianyigexiangfa.com/JavaNinja/
 ##项目介绍
 ###用javaNinja框架开发讲述javaNinja框架学习过程的网站
 ###javaNinja是指：ninja web framework，官网是：http://www.ninjaframework.org/
@@ -14,3 +15,4 @@
 ####翻译 Session
 ####思考：开元框架能带给大家什么
 ####利用github pages把我翻译的文档发布
+
